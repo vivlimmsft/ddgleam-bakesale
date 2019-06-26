@@ -2,7 +2,7 @@ If you want to donate for the DevDiv bake sale, you may optionally use the follo
 
 # Donate with matching
 
-Here are some links to donate, with matching, to LGBTQIA+ organizations in Seattle.
+Here are some links that FTEs can use to donate, with matching, to LGBTQIA+ organizations in Seattle.
 
 ## Lambert House
 
