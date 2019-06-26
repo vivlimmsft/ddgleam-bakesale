@@ -1,41 +1,33 @@
-## ddgleam-bakesale
+If you want to donate for the DevDiv bake sale, you may optionally use the following links for convenience.
 
-Simple webpage with donation links for the ddgleam bake sale.
+# Donate with matching
 
-## Welcome to GitHub Pages
+Here are some links to donate, with matching, to LGBTQIA+ organizations in Seattle.
 
-You can use the [editor on GitHub](https://github.com/vivlimmsft/ddgleam-bakesale/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Lambert House
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lambert House is a center for lesbian, gay, bisexual, transgender and questioning youth that empowers youth through the development of leadership, social and life skills.
 
-### Markdown
+[More info / Donate](https://microsoft.benevity.org/cause/840-943036815)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Ingersoll Gender Center
 
-```markdown
-Syntax highlighted code block
+Ingersoll Gender Center is an organization based in Seattle that supports transgender people and gender variant people towards growth and well being.
 
-# Header 1
-## Header 2
-### Header 3
+They have support groups, educational opportunities, jobs programs, and special events to support the community.
 
-- Bulleted
-- List
+[More info / Donate](https://microsoft.benevity.org/cause/840-911262502)
 
-1. Numbered
-2. List
+## Gay City
 
-**Bold** and _Italic_ and `Code` text
+Gay City Health Project is a multicultural gay men’s health organization and the leading provider of HIV and STI testing in King County. Their mission is to promote wellness in LGBT communities by providing health services, connecting people to resources, fostering arts, and building community.
 
-[Link](url) and ![Image](src)
-```
+[More info / Donate](https://microsoft.benevity.org/cause/840-911685822)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Donate without matching
 
-### Jekyll Themes
+You can donate in cash at the table, or send money to me using the following services. I will donate the proceeds to Lambert House.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivlimmsft/ddgleam-bakesale/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[paypal.me/vivlim](https://www.paypal.me/vivlim)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[venmo (viviridian)](https://venmo.com/viviridian)
