@@ -24,6 +24,12 @@ Gay City Health Project is a multicultural gay men’s health organization and t
 
 [More info / Donate](https://microsoft.benevity.org/cause/840-911685822)
 
+## Three Dollar Bill Cinema
+
+Three Dollar Bill Cinema unites Seattle's LGBTQ community through film by providing a venue for LGBTQ representations in film, and works by LGBTQ filmmakers.
+
+[More info / Donate](https://microsoft.benevity.org/cause/840-911708195)
+
 # Donate without matching
 
 You can donate in cash at the table, or send money to me using the following services. I will donate the proceeds to Lambert House.
